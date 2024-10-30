@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphPresentation", "GraphPresentation\GraphPresentation.csproj", "{1ACF22B8-36AE-4F24-ACFD-495761D96005}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "GraphModel\Model.csproj", "{C2972192-82A6-46E5-8DBA-050E12E890F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{69F39E67-2F35-43D5-9810-FDD19A455913}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1ACF22B8-36AE-4F24-ACFD-495761D96005}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ACF22B8-36AE-4F24-ACFD-495761D96005}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ACF22B8-36AE-4F24-ACFD-495761D96005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2972192-82A6-46E5-8DBA-050E12E890F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2972192-82A6-46E5-8DBA-050E12E890F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2972192-82A6-46E5-8DBA-050E12E890F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2972192-82A6-46E5-8DBA-050E12E890F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F39E67-2F35-43D5-9810-FDD19A455913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F39E67-2F35-43D5-9810-FDD19A455913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F39E67-2F35-43D5-9810-FDD19A455913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F39E67-2F35-43D5-9810-FDD19A455913}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
