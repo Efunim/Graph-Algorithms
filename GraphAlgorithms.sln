@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphPresentation", "GraphP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "GraphModel\Model.csproj", "{C2972192-82A6-46E5-8DBA-050E12E890F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{69F39E67-2F35-43D5-9810-FDD19A455913}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuisnessLogic", "Application\BuisnessLogic.csproj", "{69F39E67-2F35-43D5-9810-FDD19A455913}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
